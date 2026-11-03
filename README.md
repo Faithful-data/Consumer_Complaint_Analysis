@@ -88,6 +88,9 @@ The analysis may help financial service providers:
 - Exploratory analysis
 - Interactive Power BI dashboard
 - Business insights and recommendations
+- ## Dashboard Preview
+
+![Consumer Complaint Analysis Dashboard](Consumer_Complaint_Analysis.png)
 
 ## Disclaimer
 
